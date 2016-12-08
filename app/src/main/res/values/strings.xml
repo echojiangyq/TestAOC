@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestAOC</string>
+    <string name="transition">transition</string>
+    <string name="text">text</string>
+</resources>
